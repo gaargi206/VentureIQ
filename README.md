@@ -1,4 +1,4 @@
-# VentureIQ — VQ Screener v3
+# VentureIQ
 
 VentureIQ is a clean-slate startup screening and investment-intelligence web app. The supplied VQ reference is used as the visual system: cream surface, Space Grotesk + Inter, sharp 2px borders, offset shadows, yellow/blue/red accents, dense startup cards, search/filter controls and bottom navigation.
 
